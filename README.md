@@ -1,6 +1,6 @@
 # Colab Template Theme
 
-A lightweight, production-ready **Hello Elementor child theme** used as a starter template for Colab / client projects.
+A lightweight, production-ready **custom child theme of Hello Elementor** used as a starter template for Colab / client projects.
 
 ## ✨ Features
 
